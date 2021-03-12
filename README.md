@@ -12,3 +12,5 @@
 6. Lauch minetest.
 
 7. Profit!
+
+To edit the settings in the game, you will have to press escape before pressing home, or your mouse cursor will stick in the middle of the screen.
